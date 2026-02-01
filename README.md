@@ -1,5 +1,5 @@
   # 🛍️ ARADABUY
-
+Project for INSA Summer Camp
 AradaBuy is a full-stack e-commerce web app built by a team of four to deliver a modern, secure, and responsive online shopping experience.
 
 ## 📁 Folder Structure
